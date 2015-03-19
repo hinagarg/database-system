@@ -1,4 +1,4 @@
-=========================
+﻿=========================
 #   Problem Statement   #
 =========================
 
@@ -152,20 +152,3 @@ No memory leaks :
 ——————————————————————
 
 The additional test cases are implemented and tested with valgrind for no memory leaks.
-
-===========================
-#      Contribution       #
-===========================
-
-1. Geet Kumar :
-  a. Page related functions and related documentation. 
-  b. Memory checking - Valgrind
-
-2. Hina Garg :
-  a. Write related functions and related documentation
-
-3. Vivek Pabani :
-  a. Read related functions and related documentation
-  b. Additional test cases.
-
-
